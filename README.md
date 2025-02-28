@@ -13,7 +13,7 @@ This project has features like:
   # -> Having and choosing different themes
   ![Screenshot 2025-02-28 111142](https://github.com/user-attachments/assets/513e3392-4fdb-4a5e-a25d-9358366c2222)
 
-  # -> Having text feaatures like highlighting words
+  # -> Having text features like highlighting words
   ![Screenshot 2025-02-28 111220](https://github.com/user-attachments/assets/206ea2f9-4a27-40c1-b89e-a832b73b9ca1)
 
   # -> Showing on the bottomm part of the window the cursor index and the name of the file
